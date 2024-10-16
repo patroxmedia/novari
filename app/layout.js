@@ -10,7 +10,7 @@ const urban = Urbanist({
     display: 'swap',
 })
 export const metadata = {
-    title: 'Nivia - Multipurpose Startup SaaS Nextjs Template',
+    title: 'Novari - Digital Agency',
 }
 
 export default function RootLayout({ children }) {
