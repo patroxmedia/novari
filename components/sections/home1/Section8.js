@@ -31,7 +31,7 @@ export default function Section8() {
                             <div className="box-image-neutral-1000"><img src="/assets/imgs/page/homepage1/img-discover.png" alt="Nivia" /></div>
                         </div>
                         <div className="col-lg-6 mb-30">
-                            <h2>Discover insights across all your data with Nivia Platform</h2>
+                            <h2>Discover insights across all your data with Novari Platform</h2>
                             <p className="text-lg neutral-500">Bole nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                                 commodo conididunt ut labore et dolore magna aliqua ut enim ad minim veniam</p>
                             <div className="box-buttons-feature-4"><Link className="btn btn-brand-4-medium mr-20" href="#">Subscribe
